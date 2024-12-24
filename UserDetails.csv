@@ -1,0 +1,11 @@
+User ID,User Name,Age,Location,Registration Date,Phone,Email,Favorite Meal,Total Orders
+U001,Alice Johnson,28,New York,2023-01-15,123-456-7890,alice@email.com,Dinner,12
+U002,Bob Smith,35,Los Angeles,2023-02-20,987-654-3210,bob@email.com,Lunch,8
+U003,Charlie Lee,42,Chicago,2023-03-10,555-123-4567,charlie@email.com,Breakfast,15
+U004,David Brown,27,San Francisco,2023-04-05,444-333-2222,david@email.com,Dinner,10
+U005,Emma White,30,Seattle,2023-05-22,777-888-9999,emma@email.com,Lunch,9
+U006,Frank Green,25,Austin,2023-06-15,888-777-6666,frank@email.com,Dinner,7
+U007,Grace King,38,Boston,2023-07-02,999-888-7777,grace@email.com,Breakfast,14
+U008,Henry Lee,31,Miami,2023-08-11,101-202-3030,henry@email.com,Dinner,5
+U009,Irene Moore,33,Dallas,2023-09-01,202-303-4040,irene@email.com,Lunch,6
+U010,Jack White,29,Phoenix,2023-10-10,303-404-5050,jack@email.com,Dinner,8
